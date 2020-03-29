@@ -3,6 +3,14 @@ name = "mandelbrot"
 version = "0.1.0"
 authors = ["TheWebDevel <sathish@skcript.com>"]
 edition = "2018"
+description = "Generate The Mandelbrot set using concurrency."
+homepage = "https://github.com/TheWebDevel/programming-rust/tree/master/mandelbrot"
+repository = "https://github.com/TheWebDevel/programming-rust/tree/master/mandelbrot"
+keywords = ["concurrency", "mandelbrot"]
+categories = ["command-line-utilities"]
+license = "MIT"
+autotests = false
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
