@@ -192,7 +192,7 @@ checksum = "7d947cbb889ed21c2a84be6ffbaebf5b4e0f4340638cba0444907e38b56be084"
 
 [[package]]
 name = "mandelbrot"
-version = "0.1.1"
+version = "0.1.2"
 dependencies = [
  "crossbeam",
  "image",
