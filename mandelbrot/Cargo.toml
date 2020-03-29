@@ -8,6 +8,7 @@ homepage = "https://github.com/TheWebDevel/programming-rust/tree/master/mandelbr
 repository = "https://github.com/TheWebDevel/programming-rust/tree/master/mandelbrot"
 keywords = ["concurrency", "mandelbrot"]
 categories = ["command-line-utilities"]
+readme = "README.md"
 license = "MIT"
 autotests = false
 
